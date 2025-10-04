@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Lakyari" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/royal_black</item>
+    </style>
+</resources>

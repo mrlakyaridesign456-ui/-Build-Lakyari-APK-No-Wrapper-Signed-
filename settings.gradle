@@ -1,0 +1,2 @@
+rootProject.name = 'LakyariPlayerV4_3'
+include ':app'

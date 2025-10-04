@@ -1,0 +1,9 @@
+Simple Git commands to push this project to a new GitHub repo (run in project root):
+
+# initialize git and push to remote (replace URL with your repo)
+git init
+git add .
+git commit -m "Lakyari V4.3 - GitHub ready"
+git branch -M main
+git remote add origin https://github.com/<your-username>/<your-repo>.git
+git push -u origin main
